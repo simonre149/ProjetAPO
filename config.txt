@@ -1,0 +1,16 @@
+#Tue Feb 02 23:29:05 CET 2021
+vitesse_des_personnes=1
+quarantaine=0
+confinement=0
+probabilite_d_exposition=0.3
+nb_jours=1000
+population_infectee=250
+modele_epidemique=SIR
+vaccination=0
+probabilite_de_contamination=0.3
+population_totale=1000
+masques=0
+probabilite_de_decontamination=0.1
+taille_de_la_zone=2000
+probabilite_de_contamination_apres_exposition=0.8
+population_saine=1000
